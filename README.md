@@ -65,3 +65,4 @@ export class AppComponent extends HasLoadingSpinnerBase implements OnInit {
 }
 
 ```
+### This functionality can be used for every component you want, it does not have to be the AppComponent. Thus, you can have multiple loading spinners independent of each other.
